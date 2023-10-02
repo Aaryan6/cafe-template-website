@@ -14,13 +14,13 @@ export default function Hero() {
         <h1 className="cursive text-orange-200 text-3xl md:text-4xl mt-20">
           Welcome
         </h1>
-        <h1 className="lato text-3xl md:text-4xl tracking-wide max-w-xl mx-auto leading-snug">
-          AMAZING TASTE & BEAUTIFUL PLACE
+        <h1 className="lato text-3xl md:text-4xl font-semibold tracking-wide max-w-xl mx-auto leading-snug">
+          YOU’LL LOVE OUR BUNS!
         </h1>
         <p className="max-w-3xl mx-auto mt-4 text-sm md:text-base px-4">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat
-          tenetur eius eum a! Quibusdam est recusandae corrupti repellat?
-          Dolorem repudiandae!
+          Baker’s Bakery is a modern day “Hash House” that serves the #1
+          breakfast in South Dakota- according to Everyday with Rachel Ray
+          Magazine (March 2014 issue).
         </p>
         <div className="flex flex-col md:flex-row gap-x-6 mt-10">
           <button className="py-3 px-6 mb-5 md:mb-0 bg-orange-300 border border-orange-300 text-black text-sm">

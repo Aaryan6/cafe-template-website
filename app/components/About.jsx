@@ -18,17 +18,15 @@ export default function About() {
             Discover
           </h1>
           <h1 className="text-4xl md:text-[2.7rem] font-semibold leading-3">
-            OUR STORY
+            ABOUT US
           </h1>
-          <p className="leading-relaxed text-stone-400 mt-10 text-[.9rem]">
-            On her way she met a copy. The copy warned the Little Blind Text,
-            that where it came from it would have been rewritten a thousand
-            times and everything that was left from its origin would be the word
-            &quot;and&quot; and the Little Blind Text should turn around and
-            return to its own, safe country. But nothing the copy said could
-            convince her and so it didn’t take long until a few insidious Copy
-            Writers ambushed her, made her drunk with Longe and Parole and
-            dragged her into their agency, where they abused her for their.
+          <p className="leading-relaxed text-stone-400 mt-10 text-[.95rem]">
+            Baker’s Bakery is a modern day “Hash House” that serves the #1
+            breakfast in South Dakota- according to Everyday with Rachel Ray
+            Magazine (March 2014 issue). We have a full breakfast and lunch menu
+            as well as fresh pastries, donuts, and espresso bar. Everything is
+            served on or with homemade bread and we guarantee “YOU’LL LOVE OUR
+            BUNS!”
           </p>
         </div>
       </div>

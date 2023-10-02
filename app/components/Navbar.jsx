@@ -1,10 +1,14 @@
+import Image from "next/image";
+
 export default function Navbar() {
   return (
     <div
       className={`absolute top-0 left-0 w-full z-50 border-b border-b-gray-500`}
     >
       <div className="flex items-center justify-between p-6 container mx-auto text-white">
-        <div className="uppercase text-lg">logo</div>
+        <div className="uppercase text-lg">
+          <Image src="/bakerylogo.png" alt="" width={250} height={300} />
+        </div>
         <div className="">
           <ul className="md:flex items-center gap-x-10 hidden">
             <li className="lato text-orange-50 font-medium cursor-pointer hover:text-white">
